@@ -1,1 +1,20 @@
-[]
+[
+{
+    "id": "pdf-1",
+    "type": "pdf",
+    "title": "티켓팅전쟁의사회학",
+    "category": "사회학 보고서",
+    "description": "한국 프로야구 관중수 증가에 관한 사회분석 연구 발표자료 입니다.",
+    "date": "2026-11-25",
+    "url": "media/pdf/티켓팅전쟁의사회학.pdf"
+  },
+  {
+    "id": "video-1",
+    "type": "video",
+    "title": "광고 홍보 영상",
+    "category": "Ai광고 홍보 영상",
+    "description": "신제품 개발 기획한 드라이핏 클린매트 신제품 Ai 홍보영상 입니다.",
+    "date": "2026-11-25",
+    "url": "media/video/드라이핏 클린매트 신제품 Ai 홍보영상.mp4"
+  }
+]
